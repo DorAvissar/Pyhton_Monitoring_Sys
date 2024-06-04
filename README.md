@@ -73,22 +73,10 @@ Navigate to [http://localhost:5000/](http://localhost:5000/) on your browser to 
 (username: admin ; password: admin)
 
 ### Screenshots
-![Screenshot](static/images/login-screenshot.png)
-![Screenshot](static/images/dashboard-screenshot.png)
-![Screenshot](static/images/darkmode-screenshot.png)
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[Python]: https://img.shields.io/badge/Python-3C873A?style=for-the-badge&labelColor=black&logo=python&logoColor=3C873A
-[Python-url]: https://www.python.org
-[HTML5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[HTML5-url]: #
-[Flask]: https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white
-[Flask-url]: https://flask.palletsprojects.com/en/2.3.x/
-[JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[JavaScript-url]: #
-[Docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&labelColor=black&logo=docker&logoColor=white
-[Docker-url]: https://www.docker.com
+https://github.com/DorAvissar/Pyhton_Monitoring_Sys/blob/main/static/images/LOGIN.png
 
 
 
+https://github.com/DorAvissar/Pyhton_Monitoring_Sys/blob/main/static/images/dashborad.png
 

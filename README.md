@@ -55,6 +55,7 @@ To get started with the system monitoring, follow the steps below:
 2. Open your web browser and navigate to http://localhost:5000/ to access the monitoring dashboard. (username: admin ; password: admin)
 
 3. Monitor your system's CPU and memory usage in real-time.
+    - If you are interested in loading your computer's cpu, you can do so on <a href="https://mprep.info/gpu/">this website</a>, and monitor through the application
 
 <!-- Docker Section -->
 ### Docker image

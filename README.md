@@ -36,7 +36,7 @@ To get started with the system monitoring, follow the steps below:
 
    ```bash
    git clone https://github.com/DorAvissar/Pyhton_Monitoring_Sys.git
-   cd Python-System-Monitor
+   cd Pyhton_Monitoring_Sys
     ```
 
 2. Install the required dependencies:
@@ -53,6 +53,7 @@ To get started with the system monitoring, follow the steps below:
     ```
 
 2. Open your web browser and navigate to http://localhost:5000/ to access the monitoring dashboard. (username: admin ; password: admin)
+
 3. Monitor your system's CPU and memory usage in real-time.
 
 <!-- Docker Section -->

@@ -1,10 +1,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The System Monitoring tool is a Python-based application that allows users to monitor their system's CPU and memory usage in real-time.
+The System Monitoring tool is a Python-based application that allows users to monitor their system's CPU, computer data, running processes and memory usage in real-time.
 
 ### Key features of this project:
-* Real-time Monitoring: The script uses the 'psutil' library to fetch real time CPU and Memory usage information. When a user enter the application through the web browser, the tool instantly provides the current CPU and Memory usage percentages.
+* Real-time Monitoring: The script uses the 'psutil' library to fetch real  information. 
 * Warning System: The script checks if the CPU usage or Memory usages gets over 80% and issues a warning message.
 * Web Interface via Flask: The python script uses the Flask web framework to create a simple web application.
 
@@ -17,16 +17,6 @@ The project is built with Python, HTML, JavaScript, and CSS. The following libra
 * [Flask-Session](https://flask-session.readthedocs.io/en/latest/)
 
 [![Python][Python]][Python-url] [![HTML5][HTML5]][HTML5-url] [![Flask][Flask]][Flask-url] [![JavaScript][JavaScript]][JavaScript-url]
-
-<!-- TO-DO Section -->
-### To Do:
-* Add historical CPU and memory usage data over different time periods.✕
-* Improve the HTML/CSS of the monitoring dashboard for a more user-friendly and visually appealing interface. ✓
-* Set up Docker for the application to enable easy deployment and management. ✓
-* add a login page to the application to allow multiple users to access the monitoring dashboard. ✓
-* Add a dark mode option to the monitoring dashboard. ✓
-* Add a feature to allow users to download the historical data as a CSV file. ✕
-* Add database functionality to the application to store historical data.✕
 
 
 <!-- Getting Started Section -->
@@ -45,7 +35,7 @@ To get started with the system monitoring, follow the steps below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sbendarsky/Python-System-Monitor.git
+   git clone https://github.com/DorAvissar/Pyhton_Monitoring_Sys.git
    cd Python-System-Monitor
     ```
 
@@ -59,18 +49,18 @@ To get started with the system monitoring, follow the steps below:
 
 1. Run the application:
    ```bash
-   python3 app.py
+   python app.py
     ```
 
 2. Open your web browser and navigate to http://localhost:5000/ to access the monitoring dashboard. (username: admin ; password: admin)
-3. Monitor your system's CPU and memory usage in real-time and view historical data for analysis.
+3. Monitor your system's CPU and memory usage in real-time.
 
 <!-- Docker Section -->
 ### Docker image
 [![Docker][Docker]][Docker-url]
 1. Run this command to build a Docker image
 ```bash
-sudo docker built -t <image-name> .
+docker build -t <your_image_name> .
 ```
 
 2. To start the Flask server run this command

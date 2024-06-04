@@ -8,17 +8,6 @@ The System Monitoring tool is a Python-based application that allows users to mo
 * Warning System: The script checks if the CPU usage or Memory usages gets over 80% and issues a warning message.
 * Web Interface via Flask: The python script uses the Flask web framework to create a simple web application.
 
-
-### Built With
-The project is built with Python, HTML, JavaScript, and CSS. The following libraries were used:
-* [Flask](https://flask.palletsprojects.com/en/2.0.x/)
-* [psutil](https://pypi.org/project/psutil/)
-* [Chart.js](https://www.chartjs.org/)
-* [Flask-Session](https://flask-session.readthedocs.io/en/latest/)
-
-[![Python][Python]][Python-url] [![HTML5][HTML5]][HTML5-url] [![Flask][Flask]][Flask-url] [![JavaScript][JavaScript]][JavaScript-url]
-
-
 <!-- Getting Started Section -->
 ## Getting Started
 To get started with the system monitoring, follow the steps below:
@@ -59,7 +48,6 @@ To get started with the system monitoring, follow the steps below:
 
 <!-- Docker Section -->
 ### Docker image
-[![Docker][Docker]][Docker-url]
 1. Run this command to build a Docker image
 ```bash
 docker build -t <your_image_name> .

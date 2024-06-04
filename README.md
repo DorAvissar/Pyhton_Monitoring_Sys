@@ -72,11 +72,15 @@ This will start the Flask server in a docker conatiner on your localhost. \
 Navigate to [http://localhost:5000/](http://localhost:5000/) on your browser to access the application. \
 (username: admin ; password: admin)
 
+
 ### Screenshots
-
-https://github.com/DorAvissar/Pyhton_Monitoring_Sys/blob/main/static/images/LOGIN.png
-
+![Screenshot](https://github.com/DorAvissar/Pyhton_Monitoring_Sys/blob/main/static/images/LOGIN.png?raw=true)
 
 
-https://github.com/DorAvissar/Pyhton_Monitoring_Sys/blob/main/static/images/dashborad.png
+![Screenshot](https://github.com/DorAvissar/Pyhton_Monitoring_Sys/blob/main/static/images/dashborad.png?raw=true)
+
+
+
+
+
 
